@@ -53,3 +53,22 @@ Ce projet est idéal pour pratiquer les concepts fondamentaux de TypeScript comm
 
 ## 📂 Structure du projet
 A voir sur le depot
+
+## 🚀 Quick Start
+
+```bash
+# Cloner le projet
+git clone https://github.com/baye333/Gestion_t-ches.git
+cd task-manager-typescript
+
+# Installer les dépendances
+npm install
+
+# Installer TypeScript globalement (si nécessaire)
+npm install -g typescript
+
+# Compiler le projet
+tsc
+
+# Lancer la compilation automatique (optionnel)
+tsc --watch
