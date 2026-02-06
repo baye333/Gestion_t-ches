@@ -2,7 +2,8 @@
 
 ## 📸 Aperçu de l'application
 
-<img src="assets/Application.png" width="700">
+![Aperçu](./assets/Application.png)
+
 
 
 
