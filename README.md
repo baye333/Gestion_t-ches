@@ -1,5 +1,10 @@
 # ✅ Task Manager - To-Do List en TypeScript
 
+## 📸 Aperçu de l'application
+
+![Aperçu de l'application](assets/Application.png)
+
+
 ## 📌 Description
 
 Ce projet est une application de gestion de tâches (**To-Do List**) développée en **TypeScript**.  
