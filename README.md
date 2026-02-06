@@ -44,17 +44,4 @@ Ce projet est idéal pour pratiquer les concepts fondamentaux de TypeScript comm
 ---
 
 ## 📂 Structure du projet
-
-task-manager/
-│
-├── index.html # Interface utilisateur
-├── style.css # Style de l'application
-├── tsconfig.json # Configuration TypeScript
-│
-├── src/
-│ ├── models.ts # Interface Task
-│ ├── taskManager.ts # Classe TaskManager
-│ └── main.ts # Gestion DOM + logique principale
-│
-└── dist/
-└── main.js # Code compilé (généré automatiquement)
+A voir sur le depot
